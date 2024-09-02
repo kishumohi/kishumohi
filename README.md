@@ -1,7 +1,7 @@
 ### Hi there 👋 I am [Kishan!](https://kishanprofile.github.io).
 
-[![GitHub Kishan](https://img.shields.io/github/followers/kishumohi?label=follow&style=social)](https://github.com/kishumohi)
-[![Linkedin: Kishan](https://img.shields.io/badge/-Kishan%20Kalavadiya-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kishan-kalavadiya-b97a5029b/)]([https://www.linkedin.com/in/yatharth-verma-938924169/](https://www.linkedin.com/in/kishan-kalavadiya-b97a5029b/)
+[![GitHub Kishan Kalavadiya](https://img.shields.io/github/followers/kishumohi?label=follow&style=social)](https://github.com/kishumohi)
+[![Linkedin: Kishan Kalavadiya](https://img.shields.io/badge/-Kishan%20Kalavadiya-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kishan-kalavadiya-b97a5029b/)](https://www.linkedin.com/in/kishan-kalavadiya-b97a5029b/)
 
 - 💻 Full Stack Web engineer with 1+ years of experience.
 - 📫 You can reach me via my email: kishankalavadiya@gmail.com

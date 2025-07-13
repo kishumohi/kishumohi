@@ -25,6 +25,14 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kishumohi&layout=compact&langs_count=8&theme=vue)](https://github.com/kishumohi)
 
 
-## Project List 🚀
-- [📝 Note-App](https://kishumohi.github.io/App_Note/)
+## 📂 My Projects
+<details>
+  <summary>🔽 Explore More</summary>
+
+### 🚀 HTML, CSS, JS
+
+- [📝 Note App](https://kishumohi.github.io/App_Note/)
+- [📊 Landing-Page]()
+
+</details>
 

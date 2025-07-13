@@ -32,7 +32,7 @@
 ### 🚀 HTML, CSS, JS
 
 - [📝 Note App](https://kishumohi.github.io/App_Note/)
-- [📊 Landing-Page]()
+- [📊 Landing-Page](https://kishumohi.github.io/App_LandingPage/)
 
 </details>
 
